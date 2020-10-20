@@ -1,0 +1,12 @@
+{
+  "logger": true,
+  "accountId": 5755,
+  "apiKey": "XXXXXXXX",
+  "servers": [
+    {
+      "name": "Killzone",
+      "serverId": 35556,
+      "discordUserBotToken": "NzY4MDk5NjQ3MDMzNTczNDI2.X47iig.ajWbY0Qh5B-JEUlmIMmWc5qP4co"
+    }
+  ]
+}
